@@ -1,0 +1,12 @@
+legal
+legal
+4 7 4 5 illegal
+legal
+4 7 4 5 illegal
+4 7 4 6 illegal
+legal
+legal
+4 2 4 3 illegal
+4 2 4 4 illegal
+legal
+4 2 4 4 illegal
